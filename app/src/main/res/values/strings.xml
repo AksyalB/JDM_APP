@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">JDM_APP</string>
+    <string name="nama_mobil">Nama Mobil</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="preview">preview</string>
+
+
+    <string-array name="data_mobil">
+        <item>Mazda rx7</item>
+        <item>Nissan GTR R34</item>
+        <item>Subaru Imprezza</item>
+        <item>Lancer Evolution</item>
+        <item>Suzuki Swift</item>
+        <item>Honda Estilo</item>
+        <item>Honda S2000</item>
+        <item>Nissan Silvia S15</item>
+        <item>Nissan Stagea</item>
+        <item>Toyota AE86</item>
+    </string-array>
+
+    <string-array name="deskrpsi">
+        <item>Merupakan sebuah mobil sport 2 pintu keluaran dari jepang yang terkenal dengan mesin rotary nya. meskipun hanya 1.3L saja dapat menghasilkan tenaga yang sangat besar selain itu mobil ini memiliki banyak opsi untuk pilihan modifikasi salah satu yang terkenalnya adalah bodykit RE Amemiya. mobil ini terkenal di serial initial D yang dikemudikan oleh ryosuke bersaudara. range harga mobil ini bisa dibilang tidak tentu karena sediktinya unit mobil ini namun diperkirakan harganya sekitar 700 jt an </item>
+        <item>mobil ini dijuliki Godzilla dikarenakan prestasinya di dunia balap pada tahun 90 an. mobil penggerak roda AWD ini banyak digemari oleh kalangan petrolhead. mobil ini terkenal dalam serial film fast and the fourious yang dikendarakan oleh Brian OConner. Selain itu mobil ini memiliki banyak opsi dimodifikasi yang paling terkenal adalah tuner dari NISMO. range harga mobil ini cukup gelap, anda bisa mendapatkan mobil ini dengan angka diatas 1M </item>
+        <item>Mobil legendaris di dunia WRC ini sudah tidak asing lagi bagi penggemar mobil. mobil ini menggunakan penggerak roda AWD dengan ciri khas warna biru dan velg berwarna emas ini menjadikan tersebut istimewa. Pilihan modifikasi mobil ini beragam dan aliran modifikasinya itu biasanya ke arah rally look. range harga mobil ini diantara 400jt - 660 jt</item>
+        <item>Merupakan rival dari subaru Imprezza yang sama terkenal dari dunia WRC. mobil ini menggunakan penggerak AWD, dengan kapasitas penumpang 5 orang ini tidak menjadikan mobil ini mobil pelan karena memiliki tenaga yang besar. mobil ini juga digunakan oleh jackie Chan dalam serial ThunderBolt. aliran modifikasi mobil ini biasanya di rallylook atau JDM. range harga mobil ini diantara 500jt sampai 1M lebih</item>
+        <item>Mungkin diantara list mobil JDM yang ada pada aplikasi ini bisa dibilang paling biasa namun mobil ini memiliki desain dan mesin yang tidak kalah hebat dengan mobil lainnya. mobil dengan penggerak roda depan ini masuk ke indonesia pada tahun 2004. ada varian mobil ini yang sangat langka yaitu swift sport. aliran modifikasi mobil ini biasanya ke daily use atau track day. range harga mobil ini dengan range 331 sampai 347jt</item>
+        <item>Mobil hatchback 2 pintu ini merupakan mobil "gorengan" dengan kata lain setiap tahun harganya akan selau naik. Mobil ini sangat digemari oleh banyak orang karena bentuknya meskipun basis mobil ini sama dengan honda genio. aliran modifikasi mobil ini biasanya ke street racing. Biasanya dalam modifikasi mobil ini mesinnya diganti oleh mesin honda Type R. range harga mobil ini sangat gelap. bisa dibilang diantara 200 sampai 400 jt</item>
+        <item>mobil keluaran honda ini dikenal dengan handlingnya yang lincah serta menggunakan penggerak roda belakang. mobil ini berjiwa roadster yang artinya hanya memiliki 2 pintu dan atapnya bisa dibuka. mobil ini sangat jarang di indonesia karena masuknya melalui importir umum. mobil ini banyak digemari oleh banyak orang karena pilihan modifikasi dan berjiwa roadster. harga mobil ini dikisaran 590 sampai 850jt bahkan bisa lebih </item>
+        <item>Mobil yang terkenal dengan aliran modifikasinya yang sangat banyak menjadikan mobil ini banyak digemari banyak orang. mobil 2 pintu dengan penggerak roda belakang ini memiliki tampilan yang stylish dan timeless. selain itu modifikasi mobil ini yang paling terkenal menggunakan bodykit Rocket Bunny. range harga mobil ini diantara 300 sampai 500jt</item>
+        <item>merupakan sebuah mobil keluarga yang memiliki kapasitas penumpang lebih dari 5 orang ini bukan sembarang mobil keluarga biasa, mobil ini diperuntukan oleh kepala keluarga yang sayang dengan keluarga namun menyukai kecepatan juga karena salah satu varian mobil ini ada yang menggunakan mesin yang sama dengan Skyline R34. mobil ini menggunakan keempat rodanya untuk berjalan dan harga mobil ini diantara 500jt sampai 1M lebih </item>
+        <item>merupakan mobil yang terkenal dari serial anime Initial D ini dikemudikan oleh fujiwara Takumi. mobil ini memiliki beberapa jenis diantaranya levin, trueno, sprinter, liftback. sebenarnya mobil ini memiliki mesin yang dibilang biasa saja namun banyak dicari karena sangat iconic. modifikasi mobil ini pun banyak dan harga mobil ini sangat gelar bisa diatas angka 1M</item>
+    </string-array>
+
+    <integer-array name="foto_mobil">
+        <item>@drawable/rx7</item>
+        <item>@drawable/r34</item>
+        <item>@drawable/impreza</item>
+        <item>@drawable/evo</item>
+        <item>@drawable/swift</item>
+        <item>@drawable/estilo</item>
+        <item>@drawable/s2000</item>
+        <item>@drawable/s15</item>
+        <item>@drawable/stagea</item>
+        <item>@drawable/ae86</item>
+    </integer-array>
+
+    <integer-array name="penulis">
+        <item>@drawable/foto_aksyal</item>
+    </integer-array>
+
+    <string-array name="isi_sementara">
+        <item> Mazda RX7, keluaran tahun 1992-2002, kode mesin: 13B-REW dengan tenaga 252 HP</item>
+        <item> Nissan Skyline GTR R34, tahun 1999-2002, kode mesin: RB26DET dengan tenaga 280 HP</item>
+        <item> Subaru Imprezza, tahun 1993-2001, kode mesin: 22B dengan tenaga 400 HP</item>
+        <item> Mitsubishi Lancer Evolution, tahun 1992-2015, kode mesin 4G63T dengan tenaga 274 HP</item>
+        <item> Suzuki Swift, tahun 2005-2017, kode mesin M16A dengan tenaga 134 HP</item>
+        <item> Honda Estilo, tahun 1992-1995, kode mesin D16 dengan tenaga 120 HP</item>
+        <item> Honda S2000, tahun 1999-2009, kode mesin F20 dengan tenaga 240 HP</item>
+        <item> Nissan Silvia S15, 1999-2002, kode mesin SR20DE dengan tenaga 150 HP</item>
+        <item> Nissan Stagea, tahun 1996-2007, kode mesin RB25DET dengan tenaga 276 HP</item>
+        <item> Toyota AE86, tahun 1983-1987, koden mesin 4AGEU dengan tenaga 128 HP</item>
+    </string-array>
+
+
+</resources>
